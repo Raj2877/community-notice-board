@@ -6,7 +6,7 @@ A digital **Community Notice Board** built using **HTML**, **CSS**, and **JavaSc
 
 ## 🌐 Live Website
 
-🔗 [Visit the Website](https://github.com/Raj2877/community-notice-board.git)
+🔗 [Visit the Website](https://cmmunity-notice-board-orpin.vercel.app)
 
 📱 QR Code included for easy mobile access and sharing.
 
