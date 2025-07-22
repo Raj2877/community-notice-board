@@ -4,9 +4,10 @@ A digital **Community Notice Board** built using **HTML**, **CSS**, and **JavaSc
 
 ---
 
-## 🌐 Live Website
+## 🔗 Live Website
 
-[https://cmmunity-notice-board-orpin.vercel.app](url)
+[Visit Community Notice Board Website](https://community-notice-board-orpin.vercel.app)
+
 
 📱 QR Code included for easy mobile access and sharing.
 
